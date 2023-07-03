@@ -1,6 +1,6 @@
 # Summify
 
-Summify is a text summarization tool built using Natural Language Processing (NLP) techniques. It leverages the power of transformer models to extract key information and generate concise summaries from textual content.
+Summify is a text summarization tool built using Natural Language Processing (NLP) techniques. It leverages the power of transformer models to extract key information and generate concise summaries from textual content. The website is live on https://summify.onrender.com/
 
 ## Features
 
