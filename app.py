@@ -28,10 +28,6 @@ def home():
     else:
         return render_template("index.html")
 
-# @app.route("/summ", methods=['GET','POST'])
-# def summ():
-    
-
 if __name__ == "__main__":
     print("Server is up and running on PORT 3000")
     serve(app, host='0.0.0.0', port=3000)
